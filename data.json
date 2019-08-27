@@ -43,7 +43,7 @@
             "name": "Land Information New Zealand"
         },
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
-        "accrualPeriodicity": "irregular",
+        "accrualPeriodicity": "R/P1Y",
         "temporal": "2009-01-01/2009-12-31",
         "spatial": "POINT (174.7862 -36.8312)\n",
         "distribution": [
