@@ -49,7 +49,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2009-01-01/2009-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
+        "spatial": {"type": "Point", "coordinates": [174.7862, -36.8312]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2009/41/",
@@ -96,7 +96,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2010-01-01/2010-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
+        "spatial": {"type": "Point", "coordinates": [174.7862, -36.8312]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2010/41/",
@@ -143,7 +143,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2011-01-01/2011-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
+        "spatial": {"type": "Point", "coordinates": [174.7862, -36.8312]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2011/41/",
@@ -190,7 +190,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2012-01-01/2012-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
+        "spatial": {"type": "Point", "coordinates": [174.7862, -36.8312]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2012/41/",
@@ -237,7 +237,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2013-01-01/2013-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
+        "spatial": {"type": "Point", "coordinates": [174.7862, -36.8312]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2013/41/",
@@ -284,7 +284,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2014-01-01/2014-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
+        "spatial": {"type": "Point", "coordinates": [174.7862, -36.8312]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2014/41/",
@@ -331,7 +331,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2015-01-01/2015-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
+        "spatial": {"type": "Point", "coordinates": [174.7862, -36.8312]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2015/41/",
@@ -378,7 +378,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2016-01-01/2016-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
+        "spatial": {"type": "Point", "coordinates": [174.7862, -36.8312]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2016/41/",
@@ -425,7 +425,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2017-01-01/2017-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
+        "spatial": {"type": "Point", "coordinates": [174.7862, -36.8312]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2017/41/",
@@ -472,7 +472,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2018-01-01/2018-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
+        "spatial": {"type": "Point", "coordinates": [174.7862, -36.8312]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2018/41/",
@@ -519,7 +519,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2019-01-01/2019-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
+        "spatial": {"type": "Point", "coordinates": [174.7862, -36.8312]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2019/41/",
@@ -566,7 +566,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2007-01-01/2007-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "spatial": {"type": "Point", "coordinates": [163.1912, -77.0339]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2007/00/",
@@ -608,7 +608,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2008-01-01/2008-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "spatial": {"type": "Point", "coordinates": [163.1912, -77.0339]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2008/00/",
@@ -650,7 +650,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2009-01-01/2009-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "spatial": {"type": "Point", "coordinates": [163.1912, -77.0339]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2009/00/",
@@ -692,7 +692,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2010-01-01/2010-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "spatial": {"type": "Point", "coordinates": [163.1912, -77.0339]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2010/00/",
@@ -734,7 +734,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2011-01-01/2011-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "spatial": {"type": "Point", "coordinates": [163.1912, -77.0339]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2011/00/",
@@ -776,7 +776,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2012-01-01/2012-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "spatial": {"type": "Point", "coordinates": [163.1912, -77.0339]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2012/00/",
@@ -818,7 +818,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2013-01-01/2013-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "spatial": {"type": "Point", "coordinates": [163.1912, -77.0339]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2013/00/",
@@ -860,7 +860,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2014-01-01/2014-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "spatial": {"type": "Point", "coordinates": [163.1912, -77.0339]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2014/00/",
@@ -902,7 +902,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2015-01-01/2015-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "spatial": {"type": "Point", "coordinates": [163.1912, -77.0339]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2015/00/",
@@ -944,7 +944,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2016-01-01/2016-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "spatial": {"type": "Point", "coordinates": [163.1912, -77.0339]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2016/00/",
@@ -986,7 +986,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2017-01-01/2017-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "spatial": {"type": "Point", "coordinates": [163.1912, -77.0339]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2017/00/",
@@ -1028,7 +1028,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "irregular",
         "temporal": "2018-01-01/2018-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "spatial": {"type": "Point", "coordinates": [163.1912, -77.0339]},
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2018/00/",
@@ -1070,7 +1070,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2017-01-01/2017-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [166.5882, -46.0831]}",
+        "spatial": {"type": "Point", "coordinates": [166.5882, -46.0831]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Welcombe%20Bay%202017.pdf",
@@ -1102,7 +1102,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2018-01-01/2018-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [166.5882, -46.0831]}",
+        "spatial": {"type": "Point", "coordinates": [166.5882, -46.0831]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Welcombe%20Bay%202018.pdf",
@@ -1134,7 +1134,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2019-01-01/2019-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [166.5882, -46.0831]}",
+        "spatial": {"type": "Point", "coordinates": [166.5882, -46.0831]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Welcombe%20Bay%202019.pdf",
@@ -1166,7 +1166,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2020-01-01/2020-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [166.5882, -46.0831]}",
+        "spatial": {"type": "Point", "coordinates": [166.5882, -46.0831]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Welcombe%20Bay%202020.pdf",
@@ -1198,7 +1198,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2021-01-01/2021-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [166.5882, -46.0831]}",
+        "spatial": {"type": "Point", "coordinates": [166.5882, -46.0831]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Welcombe%20Bay%202021.pdf",
@@ -1230,7 +1230,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2022-01-01/2022-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [166.5882, -46.0831]}",
+        "spatial": {"type": "Point", "coordinates": [166.5882, -46.0831]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Welcombe%20Bay%202022.pdf",
