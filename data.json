@@ -1,6 +1,6 @@
 {
       "@context": "https://www.data.govt.nz/catalog.jsonld",
-      "@id": "linz.govt.nz/data.json",
+      "@id": "www.linz.govt.nz/data.json",
       "@type": "dcat:Catalog",
       "conformsTo": "https://www.data.govt.nz/toolkit/schema",
       "dataset":[
@@ -141,7 +141,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2011-01-01/2011-12-31",
-        "spatial": " {\"type\": \"Point\", \"coordinates\": [174.7862,-36.8312]}",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862,-36.8312]}",
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2011/41/",
