@@ -47,8 +47,9 @@
             "name": "Land Information New Zealand"
         },
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
-        "accrualPeriodicity": "R/P1Y",
+        "accrualPeriodicity": "irregular",
         "temporal": "2009-01-01/2009-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2009/41/",
@@ -93,8 +94,9 @@
             "name": "Land Information New Zealand"
         },
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
-        "accrualPeriodicity": "R/P1Y",
+        "accrualPeriodicity": "irregular",
         "temporal": "2010-01-01/2010-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2010/41/",
@@ -139,12 +141,9 @@
             "name": "Land Information New Zealand"
         },
         "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
-        "accrualPeriodicity": "R/P1Y",
+        "accrualPeriodicity": "irregular",
         "temporal": "2011-01-01/2011-12-31",
-        "spatial": {
-              "type": "Point" , 
-              "coordinates": [174.7862,-36.8312]
-        },
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
         "distribution": [
             {
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2011/41/",
@@ -170,6 +169,1078 @@
                 "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.txt",
                 "title": "Auckland site information",
                 "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Sea Level Data 2012",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2012-01-01/2012-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2012/41/",
+                "title": "Auckland Sea Level Data 2012 - Sensor 41",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2012/40/",
+                "title": "Auckland Sea Level Data 2012 - Sensor 40",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_map.jpg",
+                "title": "Auckland Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_photo.jpg",
+                "title": "Auckland monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.txt",
+                "title": "Auckland site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Sea Level Data 2013",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2013-01-01/2013-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2013/41/",
+                "title": "Auckland Sea Level Data 2013 - Sensor 41",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2013/40/",
+                "title": "Auckland Sea Level Data 2013 - Sensor 40",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_map.jpg",
+                "title": "Auckland Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_photo.jpg",
+                "title": "Auckland monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.txt",
+                "title": "Auckland site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Sea Level Data 2014",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2014-01-01/2014-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2014/41/",
+                "title": "Auckland Sea Level Data 2014 - Sensor 41",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2014/40/",
+                "title": "Auckland Sea Level Data 2014 - Sensor 40",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_map.jpg",
+                "title": "Auckland Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_photo.jpg",
+                "title": "Auckland monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.txt",
+                "title": "Auckland site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Sea Level Data 2015",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2015-01-01/2015-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2015/41/",
+                "title": "Auckland Sea Level Data 2015 - Sensor 41",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2015/40/",
+                "title": "Auckland Sea Level Data 2015 - Sensor 40",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_map.jpg",
+                "title": "Auckland Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_photo.jpg",
+                "title": "Auckland monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.txt",
+                "title": "Auckland site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Sea Level Data 2016",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2016-01-01/2016-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2016/41/",
+                "title": "Auckland Sea Level Data 2016 - Sensor 41",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2016/40/",
+                "title": "Auckland Sea Level Data 2016 - Sensor 40",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_map.jpg",
+                "title": "Auckland Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_photo.jpg",
+                "title": "Auckland monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.txt",
+                "title": "Auckland site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Sea Level Data 2017",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2017-01-01/2017-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2017/41/",
+                "title": "Auckland Sea Level Data 2017 - Sensor 41",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2017/40/",
+                "title": "Auckland Sea Level Data 2017 - Sensor 40",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_map.jpg",
+                "title": "Auckland Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_photo.jpg",
+                "title": "Auckland monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.txt",
+                "title": "Auckland site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Sea Level Data 2018",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2018-01-01/2018-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2018/41/",
+                "title": "Auckland Sea Level Data 2018 - Sensor 41",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2018/40/",
+                "title": "Auckland Sea Level Data 2018 - Sensor 40",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_map.jpg",
+                "title": "Auckland Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_photo.jpg",
+                "title": "Auckland monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.txt",
+                "title": "Auckland site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Sea Level Data 2019",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2019-01-01/2019-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [174.7862, -36.8312]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2019/41/",
+                "title": "Auckland Sea Level Data 2019 - Sensor 41",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2019/40/",
+                "title": "Auckland Sea Level Data 2019 - Sensor 40",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_map.jpg",
+                "title": "Auckland Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_photo.jpg",
+                "title": "Auckland monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.txt",
+                "title": "Auckland site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Cape Roberts, Antarctica, Sea Level Data 2007",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2007-01-01/2007-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2007/00/",
+                "title": "Cape Roberts, Antarctica Sea Level Data 2007",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_map.jpg",
+                "title": "Cape Roberts, Antarctica Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_photo.jpg",
+                "title": "Cape Roberts, Antarctica monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_readme.txt",
+                "title": "Cape Roberts, Antarctica site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Cape Roberts, Antarctica, Sea Level Data 2008",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2008-01-01/2008-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2008/00/",
+                "title": "Cape Roberts, Antarctica Sea Level Data 2008",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_map.jpg",
+                "title": "Cape Roberts, Antarctica Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_photo.jpg",
+                "title": "Cape Roberts, Antarctica monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_readme.txt",
+                "title": "Cape Roberts, Antarctica site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Cape Roberts, Antarctica, Sea Level Data 2009",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2009-01-01/2009-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2009/00/",
+                "title": "Cape Roberts, Antarctica Sea Level Data 2009",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_map.jpg",
+                "title": "Cape Roberts, Antarctica Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_photo.jpg",
+                "title": "Cape Roberts, Antarctica monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_readme.txt",
+                "title": "Cape Roberts, Antarctica site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Cape Roberts, Antarctica, Sea Level Data 2010",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2010-01-01/2010-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2010/00/",
+                "title": "Cape Roberts, Antarctica Sea Level Data 2010",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_map.jpg",
+                "title": "Cape Roberts, Antarctica Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_photo.jpg",
+                "title": "Cape Roberts, Antarctica monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_readme.txt",
+                "title": "Cape Roberts, Antarctica site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Cape Roberts, Antarctica, Sea Level Data 2011",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2011-01-01/2011-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2011/00/",
+                "title": "Cape Roberts, Antarctica Sea Level Data 2011",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_map.jpg",
+                "title": "Cape Roberts, Antarctica Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_photo.jpg",
+                "title": "Cape Roberts, Antarctica monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_readme.txt",
+                "title": "Cape Roberts, Antarctica site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Cape Roberts, Antarctica, Sea Level Data 2012",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2012-01-01/2012-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2012/00/",
+                "title": "Cape Roberts, Antarctica Sea Level Data 2012",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_map.jpg",
+                "title": "Cape Roberts, Antarctica Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_photo.jpg",
+                "title": "Cape Roberts, Antarctica monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_readme.txt",
+                "title": "Cape Roberts, Antarctica site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Cape Roberts, Antarctica, Sea Level Data 2013",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2013-01-01/2013-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2013/00/",
+                "title": "Cape Roberts, Antarctica Sea Level Data 2013",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_map.jpg",
+                "title": "Cape Roberts, Antarctica Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_photo.jpg",
+                "title": "Cape Roberts, Antarctica monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_readme.txt",
+                "title": "Cape Roberts, Antarctica site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Cape Roberts, Antarctica, Sea Level Data 2014",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2014-01-01/2014-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2014/00/",
+                "title": "Cape Roberts, Antarctica Sea Level Data 2014",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_map.jpg",
+                "title": "Cape Roberts, Antarctica Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_photo.jpg",
+                "title": "Cape Roberts, Antarctica monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_readme.txt",
+                "title": "Cape Roberts, Antarctica site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Cape Roberts, Antarctica, Sea Level Data 2015",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2015-01-01/2015-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2015/00/",
+                "title": "Cape Roberts, Antarctica Sea Level Data 2015",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_map.jpg",
+                "title": "Cape Roberts, Antarctica Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_photo.jpg",
+                "title": "Cape Roberts, Antarctica monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_readme.txt",
+                "title": "Cape Roberts, Antarctica site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Cape Roberts, Antarctica, Sea Level Data 2016",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2016-01-01/2016-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2016/00/",
+                "title": "Cape Roberts, Antarctica Sea Level Data 2016",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_map.jpg",
+                "title": "Cape Roberts, Antarctica Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_photo.jpg",
+                "title": "Cape Roberts, Antarctica monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_readme.txt",
+                "title": "Cape Roberts, Antarctica site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Cape Roberts, Antarctica, Sea Level Data 2017",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2017-01-01/2017-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2017/00/",
+                "title": "Cape Roberts, Antarctica Sea Level Data 2017",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_map.jpg",
+                "title": "Cape Roberts, Antarctica Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_photo.jpg",
+                "title": "Cape Roberts, Antarctica monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_readme.txt",
+                "title": "Cape Roberts, Antarctica site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Cape Roberts, Antarctica, Sea Level Data 2018",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "sea level data"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "irregular",
+        "temporal": "2018-01-01/2018-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [163.1912, -77.0339]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/2018/00/",
+                "title": "Cape Roberts, Antarctica Sea Level Data 2018",
+                "format": "x-zip-compressed"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_map.jpg",
+                "title": "Cape Roberts, Antarctica Map",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_photo.jpg",
+                "title": "Cape Roberts, Antarctica monitoring site",
+                "format": "jpeg"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/ROBT_readme.txt",
+                "title": "Cape Roberts, Antarctica site information",
+                "format": "txt"
+            }
+        ]
+    },
+    {
+        "title": "Welcombe Bay, Tide Predictions, 2017",
+        "description": "Welcombe Bay, Tide Predictions, 2017. Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location.Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994).LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site.For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "tide predictions"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "2017-01-01/2017-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [166.5882, -46.0831]}",
+        "distribution": [
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Welcombe%20Bay%202017.pdf",
+                "title": "Welcombe Bay, Tide Predictions, 2017",
+                "format": "CSV"
+            },
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Welcombe%20Bay%202017.csv",
+                "title": "Welcombe Bay, Tide Predictions, 2017",
+                "format": "PDF"
+            }
+        ]
+    },
+    {
+        "title": "Welcombe Bay, Tide Predictions, 2018",
+        "description": "Welcombe Bay, Tide Predictions, 2018. Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location.Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994).LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site.For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "tide predictions"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "2018-01-01/2018-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [166.5882, -46.0831]}",
+        "distribution": [
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Welcombe%20Bay%202018.pdf",
+                "title": "Welcombe Bay, Tide Predictions, 2018",
+                "format": "CSV"
+            },
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Welcombe%20Bay%202018.csv",
+                "title": "Welcombe Bay, Tide Predictions, 2018",
+                "format": "PDF"
+            }
+        ]
+    },
+    {
+        "title": "Welcombe Bay, Tide Predictions, 2019",
+        "description": "Welcombe Bay, Tide Predictions, 2019. Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location.Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994).LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site.For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "tide predictions"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "2019-01-01/2019-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [166.5882, -46.0831]}",
+        "distribution": [
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Welcombe%20Bay%202019.pdf",
+                "title": "Welcombe Bay, Tide Predictions, 2019",
+                "format": "CSV"
+            },
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Welcombe%20Bay%202019.csv",
+                "title": "Welcombe Bay, Tide Predictions, 2019",
+                "format": "PDF"
+            }
+        ]
+    },
+    {
+        "title": "Welcombe Bay, Tide Predictions, 2020",
+        "description": "Welcombe Bay, Tide Predictions, 2020. Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location.Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994).LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site.For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "tide predictions"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "2020-01-01/2020-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [166.5882, -46.0831]}",
+        "distribution": [
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Welcombe%20Bay%202020.pdf",
+                "title": "Welcombe Bay, Tide Predictions, 2020",
+                "format": "CSV"
+            },
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Welcombe%20Bay%202020.csv",
+                "title": "Welcombe Bay, Tide Predictions, 2020",
+                "format": "PDF"
+            }
+        ]
+    },
+    {
+        "title": "Welcombe Bay, Tide Predictions, 2021",
+        "description": "Welcombe Bay, Tide Predictions, 2021. Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location.Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994).LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site.For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "tide predictions"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "2021-01-01/2021-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [166.5882, -46.0831]}",
+        "distribution": [
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Welcombe%20Bay%202021.pdf",
+                "title": "Welcombe Bay, Tide Predictions, 2021",
+                "format": "CSV"
+            },
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Welcombe%20Bay%202021.csv",
+                "title": "Welcombe Bay, Tide Predictions, 2021",
+                "format": "PDF"
+            }
+        ]
+    },
+    {
+        "title": "Welcombe Bay, Tide Predictions, 2022",
+        "description": "Welcombe Bay, Tide Predictions, 2022. Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location.Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994).LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site.For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "theme": "Hydrography",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea levelcoastlinetide stations",
+            "streams",
+            "currents",
+            "tide predictions"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "2022-01-01/2022-12-31",
+        "spatial": "{\"type\": \"Point\", \"coordinates\": [166.5882, -46.0831]}",
+        "distribution": [
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Welcombe%20Bay%202022.pdf",
+                "title": "Welcombe Bay, Tide Predictions, 2022",
+                "format": "CSV"
+            },
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Welcombe%20Bay%202022.csv",
+                "title": "Welcombe Bay, Tide Predictions, 2022",
+                "format": "PDF"
             }
         ]
     }
