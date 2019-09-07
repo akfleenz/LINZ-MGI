@@ -28,7 +28,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2017-01-01/2017-12-31",
-        "spatial": "{"type" : "Point", "coordinates" : [172.959,-43.8087]}",
+        "spatial": {"type" : "Point", "coordinates" : [172.959,-43.8087]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Akaroa%202017.pdf",
@@ -66,7 +66,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2018-01-01/2018-12-31",
-        "spatial": "{"type" : "Point", "coordinates" : [172.959,-43.8087]}",
+        "spatial": {"type" : "Point", "coordinates" : [172.959,-43.8087]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Akaroa%202018.pdf",
@@ -104,7 +104,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2019-01-01/2019-12-31",
-        "spatial": "{"type" : "Point", "coordinates" : [172.959,-43.8087]}",
+        "spatial": {"type" : "Point", "coordinates" : [172.959,-43.8087]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Akaroa%202019.pdf",
@@ -142,7 +142,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2020-01-01/2020-12-31",
-        "spatial": "{"type" : "Point", "coordinates" : [172.959,-43.8087]}",
+        "spatial": {"type" : "Point", "coordinates" : [172.959,-43.8087]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Akaroa%202020.pdf",
@@ -180,7 +180,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2021-01-01/2021-12-31",
-        "spatial": "{"type" : "Point", "coordinates" : [172.959,-43.8087]}",
+        "spatial": {"type" : "Point", "coordinates" : [172.959,-43.8087]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Akaroa%202021.pdf",
@@ -218,7 +218,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2022-01-01/2022-12-31",
-        "spatial": "{"type" : "Point", "coordinates" : [172.959,-43.8087]}",
+        "spatial": {"type" : "Point", "coordinates" : [172.959,-43.8087]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Akaroa%202022.pdf",
