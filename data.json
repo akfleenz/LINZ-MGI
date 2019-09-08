@@ -6,7 +6,7 @@
       "dataset":[
     {
         "title": "Akaroa, Tide Predictions, 2017",
-        "description": "Akaroa, Tide Predictions, 2017. \n Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location.Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). \n LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site.For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "description": "Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location. Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site. For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
         "theme": "Hydrography",
         "data type": "Sea level",
         "data subtype": "Tide Predictions",
@@ -30,6 +30,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2017-01-01/2017-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [172.959, -43.8087]}",
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Akaroa%202017.pdf",
@@ -45,7 +46,7 @@
     },
     {
         "title": "Akaroa, Tide Predictions, 2018",
-        "description": "Akaroa, Tide Predictions, 2018. Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location.Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site.For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "description": "Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location. Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site. For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
         "theme": "Hydrography",
         "data type": "Sea level",
         "data subtype": "Tide Predictions",
@@ -69,6 +70,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2018-01-01/2018-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [172.959, -43.8087]}",
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Akaroa%202018.pdf",
@@ -84,7 +86,7 @@
     },
     {
         "title": "Akaroa, Tide Predictions, 2019",
-        "description": "Akaroa, Tide Predictions, 2019. Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location.Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site.For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "description": "Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location. Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site. For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
         "theme": "Hydrography",
         "data type": "Sea level",
         "data subtype": "Tide Predictions",
@@ -108,6 +110,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2019-01-01/2019-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [172.959, -43.8087]}",
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Akaroa%202019.pdf",
@@ -123,7 +126,7 @@
     },
     {
         "title": "Akaroa, Tide Predictions, 2020",
-        "description": "Akaroa, Tide Predictions, 2020. Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location.Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site.For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "description": "Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location. Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site. For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
         "theme": "Hydrography",
         "data type": "Sea level",
         "data subtype": "Tide Predictions",
@@ -147,6 +150,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2020-01-01/2020-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [172.959, -43.8087]}",
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Akaroa%202020.pdf",
@@ -162,7 +166,7 @@
     },
     {
         "title": "Akaroa, Tide Predictions, 2021",
-        "description": "Akaroa, Tide Predictions, 2021. Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location.Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site.For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "description": "Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location. Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site. For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
         "theme": "Hydrography",
         "data type": "Sea level",
         "data subtype": "Tide Predictions",
@@ -186,6 +190,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2021-01-01/2021-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [172.959, -43.8087]}",
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Akaroa%202021.pdf",
@@ -201,7 +206,7 @@
     },
     {
         "title": "Akaroa, Tide Predictions, 2022",
-        "description": "Akaroa, Tide Predictions, 2022. Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location.Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site.For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "description": "Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location. Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site. For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
         "theme": "Hydrography",
         "data type": "Sea level",
         "data subtype": "Tide Predictions",
@@ -225,6 +230,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2022-01-01/2022-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [172.959, -43.8087]}",
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Akaroa%202022.pdf",
@@ -234,6 +240,1091 @@
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Akaroa%202022.csv",
                 "title": "Akaroa, Tide Predictions, 2022",
+                "format": "CSV"
+            }
+        ]
+    },
+    {
+        "title": "Anawhata, Tide Predictions, 2017",
+        "description": "Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location. Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site. For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Tide Predictions",
+        "identifier": "804c78b682924d23a0ab1f6e284c38b1",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "tide predictions",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "2017-01-01/2017-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.4518, -36.9295]}",
+        "distribution": [
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Anawhata%202017.pdf",
+                "title": "Anawhata, Tide Predictions, 2017",
+                "format": "PDF"
+            },
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Anawhata%202017.csv",
+                "title": "Anawhata, Tide Predictions, 2017",
+                "format": "CSV"
+            }
+        ]
+    },
+    {
+        "title": "Anawhata, Tide Predictions, 2018",
+        "description": "Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location. Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site. For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Tide Predictions",
+        "identifier": "3c8a000815c64fa8bc2a162bf1b27252",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "tide predictions",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "2018-01-01/2018-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.4518, -36.9295]}",
+        "distribution": [
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Anawhata%202018.pdf",
+                "title": "Anawhata, Tide Predictions, 2018",
+                "format": "PDF"
+            },
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Anawhata%202018.csv",
+                "title": "Anawhata, Tide Predictions, 2018",
+                "format": "CSV"
+            }
+        ]
+    },
+    {
+        "title": "Anawhata, Tide Predictions, 2019",
+        "description": "Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location. Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site. For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Tide Predictions",
+        "identifier": "9bb2da78c3da4a019b0005a94e3216eb",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "tide predictions",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "2019-01-01/2019-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.4518, -36.9295]}",
+        "distribution": [
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Anawhata%202019.pdf",
+                "title": "Anawhata, Tide Predictions, 2019",
+                "format": "PDF"
+            },
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Anawhata%202019.csv",
+                "title": "Anawhata, Tide Predictions, 2019",
+                "format": "CSV"
+            }
+        ]
+    },
+    {
+        "title": "Anawhata, Tide Predictions, 2020",
+        "description": "Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location. Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site. For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Tide Predictions",
+        "identifier": "0c3ee82992274dea9fe027dd3262468d",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "tide predictions",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "2020-01-01/2020-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.4518, -36.9295]}",
+        "distribution": [
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Anawhata%202020.pdf",
+                "title": "Anawhata, Tide Predictions, 2020",
+                "format": "PDF"
+            },
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Anawhata%202020.csv",
+                "title": "Anawhata, Tide Predictions, 2020",
+                "format": "CSV"
+            }
+        ]
+    },
+    {
+        "title": "Anawhata, Tide Predictions, 2021",
+        "description": "Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location. Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site. For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Tide Predictions",
+        "identifier": "db6545390fb645668034f20dcc342189",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "tide predictions",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "2021-01-01/2021-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.4518, -36.9295]}",
+        "distribution": [
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Anawhata%202021.pdf",
+                "title": "Anawhata, Tide Predictions, 2021",
+                "format": "PDF"
+            },
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Anawhata%202021.csv",
+                "title": "Anawhata, Tide Predictions, 2021",
+                "format": "CSV"
+            }
+        ]
+    },
+    {
+        "title": "Anawhata, Tide Predictions, 2022",
+        "description": "Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location. Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site. For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Tide Predictions",
+        "identifier": "3ac8e3d2bc524c65a8a7d2690c3369f5",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "tide predictions",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "2022-01-01/2022-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.4518, -36.9295]}",
+        "distribution": [
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Anawhata%202022.pdf",
+                "title": "Anawhata, Tide Predictions, 2022",
+                "format": "PDF"
+            },
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Anawhata%202022.csv",
+                "title": "Anawhata, Tide Predictions, 2022",
+                "format": "CSV"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Sea Level Data 2009",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Sea Level Data",
+        "identifier": "f5ed3cd8a3ed47a4a0d2eb8c96e69fe4",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "sea level data",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "R/P1D",
+        "temporal": "2009-01-01/2009-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.7862, -36.8312]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2009/41/",
+                "title": "Auckland Sea Level Data 2009 - Sensor 41",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2009/40/",
+                "title": "Auckland Sea Level Data 2009 - Sensor 40",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_map.jpg",
+                "title": "Auckland Map",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_photo.jpg",
+                "title": "Auckland monitoring site",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.TXT",
+                "title": "Auckland site information",
+                "format": "TXT"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Sea Level Data 2010",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Sea Level Data",
+        "identifier": "730bf0c622514931a93a5b9bb11ca948",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "sea level data",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "R/P1D",
+        "temporal": "2010-01-01/2010-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.7862, -36.8312]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2010/41/",
+                "title": "Auckland Sea Level Data 2010 - Sensor 41",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2010/40/",
+                "title": "Auckland Sea Level Data 2010 - Sensor 40",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_map.jpg",
+                "title": "Auckland Map",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_photo.jpg",
+                "title": "Auckland monitoring site",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.TXT",
+                "title": "Auckland site information",
+                "format": "TXT"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Sea Level Data 2011",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Sea Level Data",
+        "identifier": "5b62d40bb1b24032aaa049b9d9056586",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "sea level data",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "R/P1D",
+        "temporal": "2011-01-01/2011-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.7862, -36.8312]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2011/41/",
+                "title": "Auckland Sea Level Data 2011 - Sensor 41",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2011/40/",
+                "title": "Auckland Sea Level Data 2011 - Sensor 40",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_map.jpg",
+                "title": "Auckland Map",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_photo.jpg",
+                "title": "Auckland monitoring site",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.TXT",
+                "title": "Auckland site information",
+                "format": "TXT"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Sea Level Data 2012",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Sea Level Data",
+        "identifier": "10c7549e39c14e80bc115932fec026ca",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "sea level data",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "R/P1D",
+        "temporal": "2012-01-01/2012-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.7862, -36.8312]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2012/41/",
+                "title": "Auckland Sea Level Data 2012 - Sensor 41",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2012/40/",
+                "title": "Auckland Sea Level Data 2012 - Sensor 40",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_map.jpg",
+                "title": "Auckland Map",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_photo.jpg",
+                "title": "Auckland monitoring site",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.TXT",
+                "title": "Auckland site information",
+                "format": "TXT"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Sea Level Data 2013",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Sea Level Data",
+        "identifier": "a7a107e39ddb4d75a33fc5c61146712d",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "sea level data",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "R/P1D",
+        "temporal": "2013-01-01/2013-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.7862, -36.8312]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2013/41/",
+                "title": "Auckland Sea Level Data 2013 - Sensor 41",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2013/40/",
+                "title": "Auckland Sea Level Data 2013 - Sensor 40",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_map.jpg",
+                "title": "Auckland Map",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_photo.jpg",
+                "title": "Auckland monitoring site",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.TXT",
+                "title": "Auckland site information",
+                "format": "TXT"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Sea Level Data 2014",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Sea Level Data",
+        "identifier": "0f5bd844a67d482d944361f9a7f162c4",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "sea level data",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "R/P1D",
+        "temporal": "2014-01-01/2014-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.7862, -36.8312]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2014/41/",
+                "title": "Auckland Sea Level Data 2014 - Sensor 41",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2014/40/",
+                "title": "Auckland Sea Level Data 2014 - Sensor 40",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_map.jpg",
+                "title": "Auckland Map",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_photo.jpg",
+                "title": "Auckland monitoring site",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.TXT",
+                "title": "Auckland site information",
+                "format": "TXT"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Sea Level Data 2015",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Sea Level Data",
+        "identifier": "3e530da8b9934bcdaac6ffb45d1fb00a",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "sea level data",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "R/P1D",
+        "temporal": "2015-01-01/2015-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.7862, -36.8312]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2015/41/",
+                "title": "Auckland Sea Level Data 2015 - Sensor 41",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2015/40/",
+                "title": "Auckland Sea Level Data 2015 - Sensor 40",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_map.jpg",
+                "title": "Auckland Map",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_photo.jpg",
+                "title": "Auckland monitoring site",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.TXT",
+                "title": "Auckland site information",
+                "format": "TXT"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Sea Level Data 2016",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Sea Level Data",
+        "identifier": "32feed75192449c483354b44e21bc933",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "sea level data",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "R/P1D",
+        "temporal": "2016-01-01/2016-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.7862, -36.8312]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2016/41/",
+                "title": "Auckland Sea Level Data 2016 - Sensor 41",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2016/40/",
+                "title": "Auckland Sea Level Data 2016 - Sensor 40",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_map.jpg",
+                "title": "Auckland Map",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_photo.jpg",
+                "title": "Auckland monitoring site",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.TXT",
+                "title": "Auckland site information",
+                "format": "TXT"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Sea Level Data 2017",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Sea Level Data",
+        "identifier": "3ef9f299ec0b431983868374f423ad7b",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "sea level data",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "R/P1D",
+        "temporal": "2017-01-01/2017-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.7862, -36.8312]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2017/41/",
+                "title": "Auckland Sea Level Data 2017 - Sensor 41",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2017/40/",
+                "title": "Auckland Sea Level Data 2017 - Sensor 40",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_map.jpg",
+                "title": "Auckland Map",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_photo.jpg",
+                "title": "Auckland monitoring site",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.TXT",
+                "title": "Auckland site information",
+                "format": "TXT"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Sea Level Data 2018",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Sea Level Data",
+        "identifier": "75fdf0cb3642466b9bfac491ccb02ed4",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "sea level data",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "R/P1D",
+        "temporal": "2018-01-01/2018-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.7862, -36.8312]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2018/41/",
+                "title": "Auckland Sea Level Data 2018 - Sensor 41",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2018/40/",
+                "title": "Auckland Sea Level Data 2018 - Sensor 40",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_map.jpg",
+                "title": "Auckland Map",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_photo.jpg",
+                "title": "Auckland monitoring site",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.TXT",
+                "title": "Auckland site information",
+                "format": "TXT"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Sea Level Data 2019",
+        "description": "Sea level data recorded at the monitoring sites is available for download. The primary purpose of the network is to upgrade and improve New Zealand's response to tsunami hazards. However, the data generated can also be used for other purposes.The zipped data file contain data for each day, with readings at one minute intervals.",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Sea Level Data",
+        "identifier": "f5464777fea244acaea1e4a515e2f882",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "sea level data",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/sea-level-data/sea-level-data-downloads",
+        "accrualPeriodicity": "R/P1D",
+        "temporal": "2019-01-01/2019-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.7862, -36.8312]}",
+        "distribution": [
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2019/41/",
+                "title": "Auckland Sea Level Data 2019 - Sensor 41",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/2019/40/",
+                "title": "Auckland Sea Level Data 2019 - Sensor 40",
+                "format": "ZIP"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_map.jpg",
+                "title": "Auckland Map",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_photo.jpg",
+                "title": "Auckland monitoring site",
+                "format": "JPG"
+            },
+            {
+                "downloadURL": "http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/AUCT_readme.TXT",
+                "title": "Auckland site information",
+                "format": "TXT"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Tide Predictions, 2017",
+        "description": "Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location. Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site. For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Tide Predictions",
+        "identifier": "ac2cf50d1d114d429fe2d345a87b2eef",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "tide predictions",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "2017-01-01/2017-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.7695, -36.8431]}",
+        "distribution": [
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Auckland%202017.pdf",
+                "title": "Auckland, Tide Predictions, 2017",
+                "format": "PDF"
+            },
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Auckland%202017.csv",
+                "title": "Auckland, Tide Predictions, 2017",
+                "format": "CSV"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Tide Predictions, 2018",
+        "description": "Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location. Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site. For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Tide Predictions",
+        "identifier": "86a97ac6368c485c8a1643da203c9002",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "tide predictions",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "2018-01-01/2018-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.7695, -36.8431]}",
+        "distribution": [
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Auckland%202018.pdf",
+                "title": "Auckland, Tide Predictions, 2018",
+                "format": "PDF"
+            },
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Auckland%202018.csv",
+                "title": "Auckland, Tide Predictions, 2018",
+                "format": "CSV"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Tide Predictions, 2019",
+        "description": "Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location. Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site. For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Tide Predictions",
+        "identifier": "6ccbd8bdfaa1491d9df0972683541faa",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "tide predictions",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "2019-01-01/2019-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.7695, -36.8431]}",
+        "distribution": [
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Auckland%202019.pdf",
+                "title": "Auckland, Tide Predictions, 2019",
+                "format": "PDF"
+            },
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Auckland%202019.csv",
+                "title": "Auckland, Tide Predictions, 2019",
+                "format": "CSV"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Tide Predictions, 2020",
+        "description": "Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location. Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site. For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Tide Predictions",
+        "identifier": "6a3dce1b7bc549e1a5e3b08618274d52",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "tide predictions",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "2020-01-01/2020-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.7695, -36.8431]}",
+        "distribution": [
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Auckland%202020.pdf",
+                "title": "Auckland, Tide Predictions, 2020",
+                "format": "PDF"
+            },
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Auckland%202020.csv",
+                "title": "Auckland, Tide Predictions, 2020",
+                "format": "CSV"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Tide Predictions, 2021",
+        "description": "Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location. Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site. For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Tide Predictions",
+        "identifier": "45748c7707484e8193186d28020de197",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "tide predictions",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "2021-01-01/2021-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.7695, -36.8431]}",
+        "distribution": [
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Auckland%202021.pdf",
+                "title": "Auckland, Tide Predictions, 2021",
+                "format": "PDF"
+            },
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Auckland%202021.csv",
+                "title": "Auckland, Tide Predictions, 2021",
+                "format": "CSV"
+            }
+        ]
+    },
+    {
+        "title": "Auckland, Tide Predictions, 2022",
+        "description": "Tables are provided in both PDF and comma delimited text (CSV) format, and display the daily times and levels of high and low tides, for a particular location. Use the PDF files if you want to print the tide tables, and the CSV files if you wish to import the data into another programme. The tide predictions on this website are not official tide tables as specified in Maritime Rules Part 25 Nautical Charts and Publications (pursuant to Section 36 of the Maritime Transport Act 1994). LINZ accepts no liability for any direct, indirect, consequential or incidental damages that result from any errors in the information, whether due to LINZ or a third party, or that arise from the use, or misuse, of the information available from this site. For more information see https://www.linz.govt.nz/sea/tides/tide-predictions/tide-prediction-formats",
+        "theme": "Hydrography",
+        "data type": "Sea level",
+        "data subtype": "Tide Predictions",
+        "identifier": "021badf7ebb6435e8ef9f05f18595542",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hydrography",
+            "sea level",
+            "tide predictions",
+            "linz"
+        ],
+        "publisher": {
+            "name": "Land Information New Zealand",
+            "mbox": "hydro@linz.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "James Ford",
+            "hasPhone": "+64 4 473 4182",
+            "hasEmail": "jford@linz.govt.nz"
+        },
+        "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "2022-01-01/2022-12-31",
+        "spatial": "{\"type\" : \"Point\", \"coordinates\" : [174.7695, -36.8431]}",
+        "distribution": [
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Auckland%202022.pdf",
+                "title": "Auckland, Tide Predictions, 2022",
+                "format": "PDF"
+            },
+            {
+                "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Auckland%202022.csv",
+                "title": "Auckland, Tide Predictions, 2022",
                 "format": "CSV"
             }
         ]
