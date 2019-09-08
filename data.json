@@ -9280,7 +9280,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2017-01-01/2017-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [T (174.8, -36.2833]},
+        "spatial": {"type" : "Point", "coordinates" : [174.8, -36.2833]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Leigh%202017.pdf",
@@ -9320,7 +9320,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2018-01-01/2018-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [T (174.8, -36.2833]},
+        "spatial": {"type" : "Point", "coordinates" : [174.8, -36.2833]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Leigh%202018.pdf",
@@ -9360,7 +9360,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2019-01-01/2019-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [T (174.8, -36.2833]},
+        "spatial": {"type" : "Point", "coordinates" : [174.8, -36.2833]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Leigh%202019.pdf",
@@ -9400,7 +9400,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2020-01-01/2020-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [T (174.8, -36.2833]},
+        "spatial": {"type" : "Point", "coordinates" : [174.8, -36.2833]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Leigh%202020.pdf",
@@ -9440,7 +9440,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2021-01-01/2021-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [T (174.8, -36.2833]},
+        "spatial": {"type" : "Point", "coordinates" : [174.8, -36.2833]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Leigh%202021.pdf",
@@ -9480,7 +9480,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2022-01-01/2022-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [T (174.8, -36.2833]},
+        "spatial": {"type" : "Point", "coordinates" : [174.8, -36.2833]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Leigh%202022.pdf",
@@ -10900,7 +10900,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2017-01-01/2017-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [T (174.8667, -41.1]},
+        "spatial": {"type" : "Point", "coordinates" : [174.8667, -41.1]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Mana%202017.pdf",
@@ -10940,7 +10940,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2018-01-01/2018-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [T (174.8667, -41.1]},
+        "spatial": {"type" : "Point", "coordinates" : [174.8667, -41.1]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Mana%202018.pdf",
@@ -10980,7 +10980,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2019-01-01/2019-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [T (174.8667, -41.1]},
+        "spatial": {"type" : "Point", "coordinates" : [174.8667, -41.1]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Mana%202019.pdf",
@@ -11020,7 +11020,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2020-01-01/2020-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [T (174.8667, -41.1]},
+        "spatial": {"type" : "Point", "coordinates" : [174.8667, -41.1]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Mana%202020.pdf",
@@ -11060,7 +11060,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2021-01-01/2021-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [T (174.8667, -41.1]},
+        "spatial": {"type" : "Point", "coordinates" : [174.8667, -41.1]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Mana%202021.pdf",
@@ -11100,7 +11100,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2022-01-01/2022-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [T (174.8667, -41.1]},
+        "spatial": {"type" : "Point", "coordinates" : [174.8667, -41.1]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Mana%202022.pdf",
@@ -13125,7 +13125,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2017-01-01/2017-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [176.92, -39.4755)]},
+        "spatial": {"type" : "Point", "coordinates" : [176.92, -39.4755]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Napier%202017.pdf",
@@ -13165,7 +13165,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2018-01-01/2018-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [176.92, -39.4755)]},
+        "spatial": {"type" : "Point", "coordinates" : [176.92, -39.4755]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Napier%202018.pdf",
@@ -13205,7 +13205,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2019-01-01/2019-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [176.92, -39.4755)]},
+        "spatial": {"type" : "Point", "coordinates" : [176.92, -39.4755]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Napier%202019.pdf",
@@ -13245,7 +13245,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2020-01-01/2020-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [176.92, -39.4755)]},
+        "spatial": {"type" : "Point", "coordinates" : [176.92, -39.4755]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Napier%202020.pdf",
@@ -13285,7 +13285,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2021-01-01/2021-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [176.92, -39.4755)]},
+        "spatial": {"type" : "Point", "coordinates" : [176.92, -39.4755]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Napier%202021.pdf",
@@ -13325,7 +13325,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2022-01-01/2022-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [176.92, -39.4755)]},
+        "spatial": {"type" : "Point", "coordinates" : [176.92, -39.4755]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Napier%202022.pdf",
@@ -17966,7 +17966,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2017-01-01/2017-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [70.6241, -45.8147)]},
+        "spatial": {"type" : "Point", "coordinates" : [70.6241, -45.8147]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Port%20Chalmers%202017.pdf",
@@ -18006,7 +18006,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2018-01-01/2018-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [70.6241, -45.8147)]},
+        "spatial": {"type" : "Point", "coordinates" : [70.6241, -45.8147]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Port%20Chalmers%202018.pdf",
@@ -18046,7 +18046,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2019-01-01/2019-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [70.6241, -45.8147)]},
+        "spatial": {"type" : "Point", "coordinates" : [70.6241, -45.8147]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Port%20Chalmers%202019.pdf",
@@ -18086,7 +18086,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2020-01-01/2020-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [70.6241, -45.8147)]},
+        "spatial": {"type" : "Point", "coordinates" : [70.6241, -45.8147]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Port%20Chalmers%202020.pdf",
@@ -18126,7 +18126,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2021-01-01/2021-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [70.6241, -45.8147)]},
+        "spatial": {"type" : "Point", "coordinates" : [70.6241, -45.8147]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Port%20Chalmers%202021.pdf",
@@ -18166,7 +18166,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2022-01-01/2022-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [70.6241, -45.8147)]},
+        "spatial": {"type" : "Point", "coordinates" : [70.6241, -45.8147]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Port%20Chalmers%202022.pdf",
@@ -22181,7 +22181,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2017-01-01/2017-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [176.1811, -37.641)]},
+        "spatial": {"type" : "Point", "coordinates" : [176.1811, -37.641]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Tauranga%202017.pdf",
@@ -22221,7 +22221,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2018-01-01/2018-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [176.1811, -37.641)]},
+        "spatial": {"type" : "Point", "coordinates" : [176.1811, -37.641]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Tauranga%202018.pdf",
@@ -22261,7 +22261,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2019-01-01/2019-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [176.1811, -37.641)]},
+        "spatial": {"type" : "Point", "coordinates" : [176.1811, -37.641]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Tauranga%202019.pdf",
@@ -22301,7 +22301,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2020-01-01/2020-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [176.1811, -37.641)]},
+        "spatial": {"type" : "Point", "coordinates" : [176.1811, -37.641]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Tauranga%202020.pdf",
@@ -22341,7 +22341,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2021-01-01/2021-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [176.1811, -37.641)]},
+        "spatial": {"type" : "Point", "coordinates" : [176.1811, -37.641]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Tauranga%202021.pdf",
@@ -22381,7 +22381,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2022-01-01/2022-12-31",
-        "spatial": {"type" : "Point", "coordinates" : [176.1811, -37.641)]},
+        "spatial": {"type" : "Point", "coordinates" : [176.1811, -37.641]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Tauranga%202022.pdf",
