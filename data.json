@@ -30,7 +30,7 @@
         "landingPage": "https://www.linz.govt.nz/sea/tides/tide-predictions",
         "accrualPeriodicity": "R/P1Y",
         "temporal": "2017-01-01/2017-12-31",
-        "spatial": "{\"type\": \"Point\", \"coordinates\": [172.959, -43.8087]}",
+        "spatial": {\"type\": \"Point\", \"coordinates\": [172.959, -43.8087]},
         "distribution": [
             {
                 "downloadURL": "https://www.linz.govt.nz/sites/default/files/docs/hydro/tidal-info/tide-tables/maj-ports/pdf/Akaroa%202017.pdf",
